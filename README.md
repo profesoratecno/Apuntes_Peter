@@ -60,7 +60,7 @@ Proyecto Educativo con Telescopios Robóticos
 <img src="Imagenes/LCO_Tenerife-768x512.jpg" width="450" align="center">
 
 
-#¿Qué podemos hacer con PETeR?
+# ¿Qué podemos hacer con PETeR?
 
 
 Obtener nuestras propias imágenes del Universo
