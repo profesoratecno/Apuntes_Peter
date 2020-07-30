@@ -31,18 +31,19 @@ Proyecto Educativo con Telescopios Robóticos
 
 # Los Robots
 
-## El Telescopio Liverpool
+## [El Telescopio Liverpool](https://www.iac.es/peter/telescopios/el-telescopio-liverpool/)
 
 • Telescopio robóticototalmente autónomo
 
 • Espejo colector: 2 metros
+
 • ORM (La Palma)
-• Imagen, espectroscopia,
-polarimetría
+
+• Imagen, espectroscopia, polarimetría
+
 • Visible-infrarrojo
-5% tiempo total (~40 h/semestre)
-para proyectos
-educativos/divulgativos en España
+
+**5% tiempo total (~40 h/semestre) para proyectos educativos/divulgativos en España**
 
 Lo primero que hay que hacer si has pensado desarrollar un proyecto ciéntifico utilizando los Telescopios Robóticos es [REGISTRA TU CENTRO](https://www.iac.es/peter/registra-tu-centro/), aquí debes indicar tu perfil de usuario, profesor/a (primaria o secundaria), aficionado/a u otros. El registro no es inmediato se debe esperar unos días para recibir respueta.
 
