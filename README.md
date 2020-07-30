@@ -45,7 +45,26 @@ Proyecto Educativo con Telescopios Robóticos
 
 • Visible-infrarrojo
 
-**5% tiempo total (~40 h/semestre) para proyectos educativos/divulgativos en España**
+*5% tiempo total (~40 h/semestre) para proyectos educativos/divulgativos en España*
+
+<img src="Imagenes/liverpool-dlopez_LT_faceb-slide-3-300x200.jpg" width="450" align="center">
+
+## [Red de Telescopios. Las Cumbres](https://www.iac.es/peter/telescopios/observatorio-las-cumbres/)
+
+• Dos telescopios de 40 cm en el Observatorio del Teide (Tenerife)
+
+• En total: 22 telescopios (0.4, 1.0, 2.0 metros)
+
+*Socio educativo: 20 - 40 horas para PETeR por curso (2018 – 2020). Telescopios de 40 cm en Tenerife, Australia, Sudáfrica, Chile, Texas y Hawái*
+
+#¿Qué podemos hacer con PETeR?
+
+Obtener nuestras propias imágenes del Universo
+
+
+|----------|-----------|---------------|
+|    |   |      | 
+|----------|-----------|---------------|
 
 Lo primero que hay que hacer si has pensado desarrollar un proyecto ciéntifico utilizando los Telescopios Robóticos es [REGISTRA TU CENTRO](https://www.iac.es/peter/registra-tu-centro/), aquí debes indicar tu perfil de usuario, profesor/a (primaria o secundaria), aficionado/a u otros. El registro no es inmediato se debe esperar unos días para recibir respueta.
 
