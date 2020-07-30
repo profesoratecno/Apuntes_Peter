@@ -66,9 +66,7 @@ Proyecto Educativo con Telescopios Robóticos
 Obtener nuestras propias imágenes del Universo
 
 
-| <img src="Imagenes/LunaLlena-1-300x291.jpg" width="150" align="center"> | <img src="Imagenes/Jup_3col_lum_Mk1_nsm508_NSOweb_sm-300x286.jpg" width="150" align="center"> | <img src="Imagenes/M20_LT-297x300.jpg" width="150" align="center">
-  | <img src="Imagenes/NGC4216_LT-300x300.jpg" width="150" align="center"> |
-|  |  | Nebulosa Trífida (M 20). Crédito: Telescopio Liverpool | Galaxia NGC 4216. Crédito: Telescopio Liverpool |
+| <img src="Imagenes/LunaLlena-1-300x291.jpg" width="80" align="center"> | <img src="Imagenes/Jup_3col_lum_Mk1_nsm508_NSOweb_sm-300x286.jpg" width="80" align="center"> | <img src="Imagenes/M20_LT-297x300.jpg" width="50" align="center">Nebulosa Trífida (M 20). Crédito: Telescopio Liverpool | <img src="Imagenes/NGC4216_LT-300x300.jpg" width="50" align="center">  Galaxia NGC 4216. Crédito: Telescopio Liverpool |
 |---------------------------------------|--------------------------------|--------------------------------------|------------------------------|
 
 
