@@ -5,6 +5,12 @@ Entre los tres mejores lugares para observar el cielo, hay uno es nuestro pais, 
 - Observatorio del Teide en Tenerife.
 - Observatorio del Roque lo de los Muchachos en La Palma.
 
+# PETeR
+Proyecto Educativo con Telescopios Robóticos
+• > 200 centros educativos,(primaria, secundaria, FP, mayores), escuelas no formales, clubs de ciencia, ...
+• 20 asociaciones de astrónomos aficionados.
+
+
 Lo primero que hay que hacer si has pensado desarrollar un proyecto ciéntifico utilizando los Telescopios Robóticos es [REGISTRA TU CENTRO](https://www.iac.es/peter/registra-tu-centro/), aquí debes indicar tu perfil de usuario, profesor/a (primaria o secundaria), aficionado/a u otros. El registro no es inmediato se debe esperar unos días para recibir respueta.
 
 
