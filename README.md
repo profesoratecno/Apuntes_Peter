@@ -6,6 +6,9 @@ Entre los tres mejores lugares para observar el cielo, hay uno es nuestro pais, 
 - Observatorio del Roque lo de los Muchachos en La Palma.
 
 # PETeR
+
+<img src="Imagenes/logo-horizontal-b.png" width="800" align="center">
+
 Proyecto Educativo con Telescopios Robóticos
 • > 200 centros educativos,(primaria, secundaria, FP, mayores), escuelas no formales, clubs de ciencia, ...
 • 20 asociaciones de astrónomos aficionados.
