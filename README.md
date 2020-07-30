@@ -65,9 +65,9 @@ Proyecto Educativo con Telescopios Robóticos
 
 Obtener nuestras propias imágenes del Universo
 
-
-|----------|-----------|---------------|
 |    |   |      | 
+|----------|-----------|---------------|
+
 
 
 Lo primero que hay que hacer si has pensado desarrollar un proyecto ciéntifico utilizando los Telescopios Robóticos es [REGISTRA TU CENTRO](https://www.iac.es/peter/registra-tu-centro/), aquí debes indicar tu perfil de usuario, profesor/a (primaria o secundaria), aficionado/a u otros. El registro no es inmediato se debe esperar unos días para recibir respueta.
