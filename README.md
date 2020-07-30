@@ -10,7 +10,9 @@ Entre los tres mejores lugares para observar el cielo, hay uno es nuestro pais, 
 # PETeR
 
 Proyecto Educativo con Telescopios Robóticos
+
 • > 200 centros educativos,(primaria, secundaria, FP, mayores), escuelas no formales, clubs de ciencia, ...
+
 • 20 asociaciones de astrónomos aficionados.
 
 ## Objetivos
