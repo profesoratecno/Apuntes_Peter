@@ -1,35 +1,18 @@
 # Apuntes_Peter
 Apuntes Webinar: [Peter. Robots que miran al cielo.](https://www.iac.es/peter/) Instituto Astrofisica de Canarias ([@IAC_Astrofisica](https://twitter.com/IAC_Astrofisica)). Ponente: [Nayra Rodríquez](https://www.iac.es/peter/profile/nayra/).
 
-Entre los tres mejores lugares para observar el cielo, hay uno es nuestro pais, en concreto en Canarias. Ahí están ubicados dos de los observatorios más importentes de nuestro planeta:
-- Observatorio del Teide en Tenerife.
-- Observatorio del Roque lo de los Muchachos en La Palma.
+## Contenido
+
+|  | Menú  |
+|-------|---------|
+|  Sesión 1  | [Cómo observar el Universo con PETeR](https://github.com/profesoratecno/Apuntes_Peter/wiki/Sesi%C3%B3n-1.-C%C3%B3mo-observar-el-Universo-con-PETeR)    |
+|  Sesión 2 | [Explora el Sistema Solar con PETeR]()    |
+|  Sesión 3 | [Cómo medir el brillo de los objetos celestes]()    |
+|  Sesión 4 | [Descubre estrellas variables con PETeR]()          |
+
+
 
 <img src="Imagenes/logo-horizontal-b.png" width="800" align="center">
-
-# PETeR
-
-Proyecto Educativo con Telescopios Robóticos
-
-• > 200 centros educativos,(primaria, secundaria, FP, mayores), escuelas no formales, clubs de ciencia, ...
-
-• 20 asociaciones de astrónomos aficionados.
-
-## Objetivos
-
- Acercar la Astronomía a estudiantes y a la sociedad a través de su participación en investigaciones científicas reales.
-
- Incentivar las vocaciones científico- tecnológicas y el interés por la ciencia.
-
- Formar a profesorado en temas de Astronomía y en métodos de aprendizaje basado en la investigación.
-
-## ¿Por qué Telescopios Robóticos?
-
- **AUTÓNOMOS** No necesitan la precesencia de astrónomos.
-
- **ACCESIBLES** Se controlan a través de Internet.
-
- **COLECTIVOS** Muchos observadores pueden usarlos cada noche.
 
 # Los Robots
 
